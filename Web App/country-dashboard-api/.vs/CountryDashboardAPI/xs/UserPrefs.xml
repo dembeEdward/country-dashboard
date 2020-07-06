@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4AF84922-89AA-4599-AC56-E38FD6B2BDE2}|Default">
+  <MonoDevelop.Ide.ItemProperties.CountryDashboardAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountryDashboardAPI/Startup.cs">
+    <Files>
+      <File FileName="CountryDashboardAPI/Startup.cs" Line="48" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountryDashboardAPI" expanded="True">
+            <Node name="CountryDashboardAPI" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

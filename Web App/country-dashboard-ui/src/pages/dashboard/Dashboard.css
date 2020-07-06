@@ -1,0 +1,11 @@
+.dashboard-container{
+    background-color: #F2F2F2;
+    padding-top: 5rem;
+    overflow: scroll;
+}
+
+.stats {
+    height: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

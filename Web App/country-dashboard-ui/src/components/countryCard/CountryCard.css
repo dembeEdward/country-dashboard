@@ -1,0 +1,27 @@
+.card-container {
+   width: 40rem;
+}
+
+.text {
+    font-family: Lato, cursive;
+    color: red;
+}
+
+.flag {
+    width: 3rem;
+    height: 3rem;
+}
+
+.value-text {
+    font-weight: bold;
+}
+
+.contry-code {
+    font-style: italic;
+    color: grey;
+    font-size: small;
+}
+
+.hovered-state {
+   background-color:#eeee; 
+}
