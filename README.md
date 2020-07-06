@@ -10,5 +10,7 @@
 4. Run ```npm install```
 5. Run ```npm start``` and the UI should start running
 
+> **Please note** the ```.env``` file in the UI has only been included for testing  purpose and should never be included in a repo.
+
 
 
